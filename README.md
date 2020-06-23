@@ -1,5 +1,5 @@
 
-[Imgur](https://i.imgur.com/iPlDvrI.png)
+<img src="https://i.imgur.com/iPlDvrI.png" alt="Gostack print">
 <!-- name the thing -->
 # Desafio 02: Conceitos do Node.js
 
